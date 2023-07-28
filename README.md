@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Next, Node** 
 - 💬 Ask me about **css,JavaScript, React ,Tailwind , MUI , Bulma,WEB3, Django**
 - 📫 How to reach me **muneeb9166@gmail.com**
-- 
+- ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/muneeb99" target="blank"
