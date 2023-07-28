@@ -12,14 +12,10 @@
 </p>
 
 - 🔭 I’m currently working on [Enrapture](https://enrapture.world/) 
-<br>
 - 🌱 I’m currently learning **Next, Node** 
-<br>
 - 💬 Ask me about **css,JavaScript, React ,Tailwind , MUI , Bulma,WEB3, Django**
-<br>
- - 📫 How to reach me **muneeb9166@gmail.com**
- <br>
-
+- 📫 How to reach me **muneeb9166@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/muneeb99" target="blank"
