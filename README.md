@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
@@ -12,10 +11,14 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Enrapture](https://enrapture.world/) - 🌱 I’m
-currently learning **Next, Node** - 💬 Ask me about **css,JavaScript, React
-,Tailwind , MUI , Bulma,WEB3,Django** - 📫 How to reach me
-**muneeb9166@gmail.com**
+- 🔭 I’m currently working on [Enrapture](https://enrapture.world/) 
+<br>
+- 🌱 I’m currently learning **Next, Node** 
+<br>
+- 💬 Ask me about **css,JavaScript, React ,Tailwind , MUI , Bulma,WEB3, Django**
+<br>
+ - 📫 How to reach me **muneeb9166@gmail.com**
+ <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
